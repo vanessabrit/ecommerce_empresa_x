@@ -18,5 +18,11 @@ __Melhoria 1__, _Melhoria 2_
 * PHP
 * MySql
 
-##### Funcionalidades a desen
+##### Funcionalidades a desenvolver:
+
+1. Área de membros
+    1. Login diferente para grupos de clientes
+    2. Desconto especial para grupos de clintes
+2. Integração com outros pagamentos 
+3. Sistema de bônus primeira compra     
 
